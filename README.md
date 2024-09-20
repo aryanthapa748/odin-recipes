@@ -1,1 +1,1 @@
-# odin-recipes
+This repository contains files for project named 'odin-projects'. This project is a review of what i have learned so far about HTML that includes lists, links, and adding images. Just a basic HTML code for testing my knowledge of what i have been learning so far.
